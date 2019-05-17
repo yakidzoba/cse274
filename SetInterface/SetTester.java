@@ -1,8 +1,7 @@
 /**
-   A tester that tests the operations of a set of objects.
-   
-   @author michaeldzoba
-   @version 4.0
+ * A tester that tests the operations of a set of objects.
+ *  
+ * @author michaeldzoba
 */
 import static org.junit.jupiter.api.Assertions.*;
 
